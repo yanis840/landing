@@ -1,0 +1,9 @@
+button.css
+
+.btn-blue {
+	background-color: #ebab3f;
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+}
